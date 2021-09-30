@@ -7,3 +7,13 @@ body {
     margin-left: 20px;
     font-size: 90px;
   }
+
+  #para1 {
+    text-align: center;
+    color: rgb(51, 255, 0);
+  }
+
+  .center {
+    text-align: center;
+    color: rgb(238, 195, 195);
+  }
